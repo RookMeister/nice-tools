@@ -4,7 +4,7 @@
   - [v9s](#ov9s)
   - [Formurai](#Formurai)
 
-## Валидация
+## Валидация форм
 
 ### v9s
 - [v9s](https://github.com/vueent/v9s) - v9s means validations.
