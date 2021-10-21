@@ -21,6 +21,9 @@
 - [Как быть продуктивным на удалёнке](https://amplifr.com/blog/ru/rules-for-remote-work/)
 - [Описание разметки файла README.md](https://github.com/GnuriaN/format-README)
 - [Тред о трудоустройстве через ИП](https://twitter.com/klimakov_me/status/1430103063906357248) - Как оформить удаленную работу c иностранной компании с юридической точки зрения тред. Либо как работать с российской компанией через ИП
+- [70 вопросов по JavaScript для подготовки к собеседованию](https://habr.com/ru/post/486820/)
+- [Задачи с собеседований (front-end)](https://habr.com/ru/post/351874/)
+- [Задачи с собеседований (front-end) часть 2](https://habr.com/ru/post/488510/)
 
 ### Алгоритмы, структуры данных и паттерны
 - [Алгоритмы и структуры данных на JavaScript](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md).
