@@ -25,6 +25,8 @@
 ### Алгоритмы, структуры данных и паттерны
 - [Алгоритмы и структуры данных на JavaScript](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md).
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog).
+- [Алгоритмика](https://algorithmica.org/ru/).
+- [Дока](https://doka.guide).
 
 ### Стартеры
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template
