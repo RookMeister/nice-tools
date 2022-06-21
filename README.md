@@ -1,18 +1,10 @@
 # Полезные инструменты
 
-- [Полезности](#Полезности)
+- [Пособия](#Пособия)
   - [Статьи](#Статьи)
   - [Алгоритмы и структуры данных](#Алгоритмы-и-структуры-данных)
-  - [Стартеры](#Стартеры)
-- [Иконки](#Иконки)
-  - [css.gg](#css.gg)
-- [CSS](#CSS)
-  - [Reseter.css](#Reseter.css)
-- [Vue](#Vue)
-  - [Инструменты](#Инструменты)
-  - [Валидация форм](#валидация-форм)
 
-## Полезности
+## Пособия
 
 ### Статьи
 - [Инструкция как написать идеальную регистрацию](https://vc.ru/dev/156552-instrukciya-kak-napisat-idealnuyu-registraciyu)
@@ -30,22 +22,3 @@
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog).
 - [Алгоритмика](https://algorithmica.org/ru/).
 - [Дока](https://doka.guide).
-
-### Стартеры
-- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template
-
-## Иконки
-- [css.gg](https://css.gg/) - 700 Precise and Detailed UI Icons — provided with well-organized Figma components library.
-
-## CSS
-- [Reseter.css](https://github.com/resetercss/reseter.css) - A Futuristic Alternative to Normalize.css and CSS Resets
-
-## Vue
-
-### Инструменты
-- [VueUse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities
-
-### Валидация форм
-- [v9s](https://github.com/vueent/v9s) - v9s means validations.
-- [Formurai](https://github.com/Barto-dev/formurai) - Formurai is a lightweight and powerfull library for declarative form validation.
-Validating forms has never been so easy. A few lines of code and your form is validated.
